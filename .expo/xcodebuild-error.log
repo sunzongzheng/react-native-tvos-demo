@@ -1,0 +1,7 @@
+2023-09-19 10:23:55.257 xcodebuild[32768:4947208] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/sunzongzheng/Library/Developer/Xcode/DerivedData/TestApp12-dspvdevxogfvmkapbvbgxlpdiaqy/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React-NativeModulesApple-iOS.build/Objects-normal/x86_64/RCTTurboModule.o /Users/sunzongzheng/code/TestApp12/node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios/ReactCommon/RCTTurboModule.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'React-NativeModulesApple-iOS' from project 'Pods')
+(1 failure)
